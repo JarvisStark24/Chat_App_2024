@@ -96,7 +96,7 @@ Welcome to Chat_App_24, a real-time chat application built using modern web tech
 
 ## Usage
 
-1. Open your browser and go to `http://localhost:3000` to view the application.
+1. Open your browser and go to `http://localhost:5000` to view the application.
 2. Register a new account or log in with existing credentials.
 3. Start chatting in real-time with other users.
 
